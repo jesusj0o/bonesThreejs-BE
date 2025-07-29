@@ -1,0 +1,155 @@
+{
+  "Cráneo": {
+    "latinName": "Cranium",
+    "description": "El cráneo es una estructura ósea altamente especializada que protege el encéfalo, aloja los órganos de los sentidos y proporciona soporte a las estructuras faciales. También participa en la formación de cavidades como la nasal y la orbitaria.",
+    "components": [
+      "Hueso frontal: forma la frente y parte del techo de la cavidad orbitaria.",
+      "Huesos parietales (2): forman la mayor parte de los lados y el techo del cráneo.",
+      "Hueso occipital: forma la parte posterior e inferior del cráneo; contiene el foramen magno.",
+      "Huesos temporales (2): albergan estructuras del oído y forman parte de las sienes.",
+      "Hueso esfenoides: se encuentra en la base del cráneo y conecta con varios otros huesos.",
+      "Hueso etmoides: participa en la formación de la cavidad nasal y la base del cráneo."
+    ],
+    "recommendedBooks": ["Gray's Anatomy", "Atlas de Anatomía Humana - Netter"],
+    "facts": [
+      "El cráneo está formado por 22 huesos, de los cuales 8 conforman la bóveda craneal y 14 el esqueleto facial.",
+      "Las suturas craneales permiten el crecimiento del cráneo en los primeros años de vida.",
+      "El hueso frontal es uno de los principales huesos del cráneo y se osifica a partir de dos centros.",
+      "El cráneo humano presenta diferencias entre sexos y edades que se utilizan en antropología forense."
+    ]
+  },
+
+  "Mandíbula": {
+    "latinName": "Mandibula",
+    "description": "La mandíbula es un hueso impar, mediano y simétrico que forma la parte inferior del esqueleto facial. Es el único hueso móvil del cráneo, articulándose con el hueso temporal mediante la articulación temporomandibular (ATM).",
+    "components": [
+      "Cuerpo de la mandíbula: parte horizontal que contiene los alvéolos dentarios para los dientes inferiores.",
+      "Ramas mandibulares: proyecciones verticales que se extienden hacia arriba desde el cuerpo.",
+      "Cóndilo mandibular: parte superior de la rama que articula con el hueso temporal.",
+      "Apófisis coronoides: inserción del músculo temporal.",
+      "Sínfisis mentoniana: unión en la línea media de las dos mitades de la mandíbula en la infancia.",
+      "Foramen mentoniano: abertura por donde pasan vasos y nervios mentonianos."
+    ],
+    "recommendedBooks": [
+      "Anatomía Humana - Rohen",
+      "Anatomía para estudiantes - Drake"
+    ],
+    "facts": [
+      "Es el hueso más fuerte y grande de la cara.",
+      "Permite el movimiento de la boca para hablar, masticar y realizar expresiones faciales.",
+      "En los recién nacidos, la mandíbula está compuesta por dos mitades que se fusionan en los primeros años de vida.",
+      "Su crecimiento está influenciado por la erupción dental y la función masticatoria."
+    ]
+  },
+
+  "Dentadura": {
+    "latinName": "Dentes",
+    "description": "La dentadura humana se compone de dientes organizados en dos arcadas, superior e inferior, que cumplen funciones de masticación, fonación y estética. Su número y forma varían según la etapa de desarrollo.",
+    "components": [
+      "Incisivos: 8 dientes con borde cortante, ubicados en la parte frontal. Funcionan para cortar alimentos.",
+      "Caninos: 4 dientes puntiagudos y fuertes. Desgarran los alimentos.",
+      "Premolares: 8 dientes con una o dos cúspides, que ayudan a triturar y desgarrar alimentos.",
+      "Molares: 12 dientes (incluyendo 4 terceros molares o 'muelas del juicio') que trituran y muelen la comida.",
+      "Arcada superior (maxilar) e inferior (mandibular): cada una contiene 16 dientes permanentes.",
+      "Dentición decidua (temporal): en niños hay 20 dientes temporales que son reemplazados por los permanentes."
+    ],
+    "recommendedBooks": [
+      "Odontología Restauradora - Sturdevant",
+      "Manual de Anatomía Dental - Woelfel"
+    ],
+    "facts": [
+      "El ser humano adulto tiene normalmente 32 dientes permanentes.",
+      "Los primeros dientes comienzan a emerger entre los 6 y 10 meses de edad.",
+      "Los dientes no solo participan en la alimentación, sino que son esenciales para el habla y la apariencia facial.",
+      "El esmalte dental es la sustancia más dura del cuerpo humano."
+    ]
+  },
+
+  "Esternón": {
+    "latinName": "Sternum",
+    "description": "El esternón es un hueso plano situado en la parte anterior del tórax que conecta las costillas mediante los cartílagos costales. Protege el corazón, los pulmones y los grandes vasos.",
+    "components": [
+      "Manubrio esternal: parte superior, articula con las clavículas y las primeras costillas.",
+      "Cuerpo del esternón (mesosternón): parte media, donde se insertan los cartílagos costales de la 2ª a la 7ª costilla.",
+      "Apéndice xifoides (proceso xifoideo): parte inferior, puede osificarse completamente en la adultez.",
+      "Ángulo de Louis (ángulo esternal): unión entre el manubrio y el cuerpo del esternón, referencia anatómica clave."
+    ],
+    "recommendedBooks": [
+      "Anatomía Clínica - Moore",
+      "Principios de Anatomía y Fisiología - Tortora"
+    ],
+    "facts": [
+      "Es palpable en la línea media del tórax y sirve como punto de referencia en procedimientos clínicos como la RCP.",
+      "El esternón se osifica desde varios centros durante la infancia y adolescencia.",
+      "El ángulo esternal se usa como punto de referencia para contar las costillas.",
+      "En cirugía cardíaca, el esternón se secciona (esternotomía) para acceder al corazón."
+    ]
+  },
+
+  "Costillas": {
+    "latinName": "Costae",
+    "description": "Las costillas son huesos largos y curvos que forman la mayor parte de la caja torácica. Protegen órganos vitales como el corazón y los pulmones y participan en la respiración al expandir el tórax.",
+    "components": [
+      "Costillas verdaderas (1-7): se unen directamente al esternón mediante cartílagos costales.",
+      "Costillas falsas (8-10): se conectan al esternón de forma indirecta a través del cartílago de la costilla superior.",
+      "Costillas flotantes (11-12): no se conectan al esternón; terminan libres en la musculatura abdominal.",
+      "Cabeza costal: se articula con los cuerpos vertebrales torácicos.",
+      "Cuello y tubérculo: áreas de transición que participan en la articulación con la vértebra.",
+      "Cuerpo o diáfisis: parte principal de la costilla que forma el arco costal."
+    ],
+    "recommendedBooks": [
+      "Atlas de Anatomía Humana - Netter",
+      "Anatomía Humana - Latarjet"
+    ],
+    "facts": [
+      "El ser humano tiene 12 pares de costillas.",
+      "Las costillas se mueven durante la inspiración y espiración para facilitar el intercambio gaseoso.",
+      "La primera costilla es la más corta y ancha, y es difícil de palpar.",
+      "Las costillas pueden fracturarse fácilmente con impactos fuertes, especialmente las 4ª a 10ª."
+    ]
+  },
+  "Clavícula derecha": {
+    "latinName": "Clavicula dextra",
+    "description": "La clavícula derecha es un hueso largo y delgado que conecta el esternón con la escápula, permitiendo el movimiento libre del brazo y sirviendo como punto de unión para varios músculos.",
+    "components": [
+      "Extremo esternal: se articula con el manubrio del esternón.",
+      "Extremo acromial: se conecta con el acromion de la escápula.",
+      "Cuerpo de la clavícula: porción alargada entre ambos extremos.",
+      "Surco subclavio: depresión en la cara inferior donde se inserta el músculo subclavio.",
+      "Tubérculo conoideo: prominencia en la cara inferior lateral donde se une el ligamento conoide."
+    ],
+    "recommendedBooks": [
+      "Gray's Anatomy",
+      "Atlas de Anatomía Humana - Netter",
+      "Principios de Anatomía y Fisiología - Tortora"
+    ],
+    "facts": [
+      "La clavícula es uno de los huesos más comúnmente fracturados en el cuerpo humano.",
+      "Sirve como soporte estructural para mantener el brazo alejado del torso.",
+      "Es el único hueso largo que se desarrolla mediante osificación intramembranosa.",
+      "La clavícula actúa como un amortiguador que transfiere la fuerza del brazo al tronco."
+    ]
+  },
+  "Clavícula izquierda": {
+    "latinName": "Clavicula sinistra",
+    "description": "La clavícula izquierda es un hueso largo y curvo que conecta el esternón con la escápula, proporcionando estabilidad y movilidad al hombro izquierdo, así como protección a estructuras neurovasculares importantes.",
+    "components": [
+      "Extremo esternal: se articula con el manubrio del esternón formando la articulación esternoclavicular.",
+      "Extremo acromial: se articula con el acromion de la escápula formando la articulación acromioclavicular.",
+      "Cuerpo de la clavícula: parte intermedia con una ligera curvatura en forma de S.",
+      "Surco subclavio: ubicado en la cara inferior, sirve para la inserción del músculo subclavio.",
+      "Tubérculo conoideo: prominencia en la cara inferior lateral, sitio de inserción del ligamento conoide."
+    ],
+    "recommendedBooks": [
+      "Atlas de Anatomía Humana - Netter",
+      "Anatomía Clínica - Moore",
+      "Gray's Anatomy"
+    ],
+    "facts": [
+      "La clavícula izquierda suele ser ligeramente más larga que la derecha en la mayoría de las personas.",
+      "Participa en la transmisión de fuerzas desde el miembro superior al esqueleto axial.",
+      "Actúa como soporte para mantener la escápula en posición y permitir un amplio rango de movimiento del brazo.",
+      "Es uno de los primeros huesos en comenzar el proceso de osificación durante el desarrollo fetal."
+    ]
+  }
+}
